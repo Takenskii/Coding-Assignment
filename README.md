@@ -7,3 +7,8 @@ In order to set up and run the project please do the following
    
    git clone https://github.com/Takenskii/Coding-Assignment.git
    cd product_search 
+
+2. Please use below credentials for the superuser
+
+   login: tamerlan
+   password: 123
