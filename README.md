@@ -6,7 +6,8 @@ In order to set up and run the project please do the following
    ```bash
    
    git clone https://github.com/Takenskii/Coding-Assignment.git
-   cd product_search 
+   cd product_search
+   run the code on localhost by python manage.py runserver
 
 2. Please use below credentials for the superuser
 
